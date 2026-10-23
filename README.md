@@ -17,7 +17,7 @@ An HTML element is the complete, functional unit of a webpage made up of an open
 HTML entities are special sequences of text used to display reserved characters, invisible characters, and symbols that cannot be easily typed or read by a web browser. They typically begin with an ampersand (&) and end with a semicolon (;).
 For example, the HTML entity &lt; displays as the less-than sign (<), and &copy; displays the copyright symbol (©)
 
-## *6.What are meta tag and why is it used *
+##  *6.What are meta tag and why is it used *
 An HTML <meta> tag provides metadata about a webpage, which means it supplies "data about data". Placed exclusively inside the <head> section of an HTML document, these tags do not appear directly on the website for visitors to see. Instead, they work behind the scenes to supply critical instructions to search engines, web browsers, and social media platforms regarding how to understand, index, and render the webpage.
 
 ## *7.what is the best way to add images in Website ?*
